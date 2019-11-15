@@ -1,1 +1,1 @@
-# testproj-configuration
+# cri-o-configuration

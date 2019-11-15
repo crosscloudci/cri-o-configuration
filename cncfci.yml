@@ -1,14 +1,14 @@
  project:
-  logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg?sanitize=true"
-  display_name: Test Project
-  sub_title: Testing
-  project_url: "https://github.com/crosscloudci/testproj"
-  stable_ref: "v0.0.4"
+  logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/crio/icon/color/crio-icon-color.svg?sanitize=true"
+  display_name: cri-o
+  sub_title: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  project_url: "https://github.com/cri-o/cri-o"
+  stable_ref: "v1.16.0"
   head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/cncfci/testproj"  # can be anything for citest
-      ci_project_name: "crosscloudci/testproj"
+      ci_project_url: "https://example.com/cri-o/cri-o"  # can be anything for citest
+      ci_project_name: "cri-o/cri-o"
       arch:
         - amd64
