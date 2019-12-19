@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/crio/icon/color/crio-icon-color.svg?sanitize=true"
   display_name: cri-o
-  sub_title: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  sub_title: Container Runtime
   project_url: "https://github.com/cri-o/cri-o"
   stable_ref: "v1.16.0"
   head_ref: "master"
